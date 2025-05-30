@@ -70,10 +70,23 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ---
 
-## ⚡ 
+### 🧠 Core Values  
+- 💡 Innovation through clean, scalable code  
+- 🎯 Focused on performance & user-first design  
+- 🧩 Modular architecture and reusable components  
+- 🧪 Test-driven, version-controlled, and organized workflow  
 
-> “Code is not just a profession—it's a passion.” 🔥  
-> I care about design systems, accessibility, and delightful user experiences.
+### 🔍 What I’m Exploring  
+- ⚛️ Advanced React Patterns & Server Components  
+- ☁️ Serverless with Firebase, Vercel & Next.js  
+- 🎥 Motion design with Framer Motion + Tailwind CSS  
+- 📱 Smooth mobile UX with Lottie animations & gestures  
+
+### 💬 Personal Touch  
+- 🖌 I have a designer’s eye — Figma is my second IDE  
+- 📚 I read technical docs like others read fiction  
+- 🌐 I'm passionate about accessibility and inclusive design  
+- 🔄 I love collaborating and constantly improving through feedback
 
 ---
 
