@@ -41,6 +41,11 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
+### 🧰 Dev Methodologies  
+![Agile](https://img.shields.io/badge/-Agile-0288D1?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ---
 
 ## 📈 Projects Highlights
@@ -78,7 +83,6 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 📫 **Email**: [maryemhaydar01@gmail.com](mailto:maryemhaydar01@gmail.com)  
 💼 **LinkedIn**: [Mariem Hayder](https://www.linkedin.com/in/mariem-hayder-817a38233/)  
-💻 **GitHub**: [Maryem01](https://github.com/Maryem01)
 
 ---
 
@@ -87,6 +91,7 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 - 🎯 Performance-driven, user-first design  
 - 🧩 Modular architecture & reusable components  
 - 🧪 Test-driven, version-controlled, and organized workflow  
+- 🌀 Agile mindset — fast iterations, constant feedback, and team collaboration
 
 ---
 
