@@ -70,8 +70,14 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ---
 
-## 📅 Contribution Graph (Hard Work in 2023 & 2024)
+## ⚡ Bonus Section
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maryem01&theme=react-dark&area=true&hide_border=true)
+> “Code is not just a profession—it's a passion.” 🔥  
+> I care about design systems, accessibility, and delightful user experiences.
 
-> “Code is not just a profession—it's a passion.” 🔥
+---
+
+## 📊 GitHub Stats
+
+![Mariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryem01&show_icons=true&theme=react&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryem01&layout=compact&theme=react&hide_border=true)
