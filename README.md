@@ -106,14 +106,14 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ## 🔍 What I’m Exploring  
 - ⚛️ Advanced React Patterns & Server Components  
-- ☁️ Serverless architecture (Firebase, Vercel, Next.js)  
+- ☁️ Serverless architecture (Firebase,Next.js)  
 - 🎥 Motion design with Framer Motion + Tailwind CSS  
 - 📱 Smooth mobile UX with Lottie animations & gestures  
 
 ---
 
 ## 💬 A Bit About Me  
-- 🖌 I have a designer’s eye — Figma is my second IDE  
+- 🖌 I have a designer’s eye  
 - 📚 I read technical docs like others read fiction  
 - 🌐 I care about accessibility and inclusive UX  
 - 🤝 I thrive on collaboration and feedback  
