@@ -119,7 +119,3 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 - 🤝 I thrive on collaboration and feedback  
 
 ---
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryem01&layout=compact&theme=react&hide_border=true)
