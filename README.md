@@ -1,6 +1,6 @@
 # 👩‍💻 Mariem Hayder
 
-🎯 *Full Stack Developer | Frontend Specialist | Problem Solver*
+🎯 *Full Stack Developer*
 
 Hi there! I'm **Mariem**, a passionate and detail-oriented Full Stack Developer with a strong foundation in building **scalable** and **efficient** web and mobile applications.  
 I thrive on innovation, elegant code, and transforming ideas into powerful digital realities.
@@ -44,7 +44,7 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ### 🧰 Dev Methodologies  
 ![Agile](https://img.shields.io/badge/-Agile-0288D1?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 ---
 
