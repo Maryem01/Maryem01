@@ -70,7 +70,7 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ---
 
-## ⚡ Bonus Section
+## ⚡ 
 
 > “Code is not just a profession—it's a passion.” 🔥  
 > I care about design systems, accessibility, and delightful user experiences.
