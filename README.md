@@ -70,10 +70,8 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ---
 
-## 📅 My Work Rhythm: Contribution Graph (2023–2024)
+## 📅 Contribution Graph (Hard Work in 2023 & 2024)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Maryem01&theme=react-dark&area=true&hide_border=true)
 
-> “Code is not just a profession—it's a passion.” 🔥  
-> I consistently push code, learn, and build—every single month.
-
+> “Code is not just a profession—it's a passion.” 🔥
