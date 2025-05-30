@@ -79,5 +79,4 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ## 📊 GitHub Stats
 
-![Mariem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryem01&show_icons=true&theme=react&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryem01&layout=compact&theme=react&hide_border=true)
