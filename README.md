@@ -5,7 +5,6 @@
 Hi there! I'm **Mariem**, a passionate and detail-oriented Full Stack Developer with a strong foundation in building **scalable** and **efficient** web and mobile applications.  
 I thrive on innovation, elegant code, and transforming ideas into powerful digital realities.
 
-📌 **Note**: While 2025 may seem quiet, I was actively contributing to major projects in **2023 and 2024** 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maryem01)
 
