@@ -63,8 +63,9 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 *Web app for sanitary services*  
 🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
 
-👷 **ELITE-TECH Employee Dashboard**  
-🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL  
+👷 <span style="color:#1E90FF">ELITE-TECH Employee Dashboard</span> 
+*Internal dashboard for managing employees and operations*  
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL   
 🔐 Features: Role-based access, dynamic dashboards, and document workflows.  
 
 ---
