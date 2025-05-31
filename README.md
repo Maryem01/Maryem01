@@ -61,8 +61,12 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 
 ### 🚿 [PlumbSolution](https://entreprise-v3r5.onrender.com)  
 *Web app for sanitary services*  
-🧩 **Tech**: React.js, TypeScript, Tailwind CSS, JWT, SQL  
-🔐 Role-based access, dynamic dashboards, and document workflows.
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
+🔐 Features: Role-based access, dynamic dashboards, and document workflows.  
+
+👷 **Employee Dashboard**  
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL  
+Built a secure and dynamic dashboard for employees to manage tasks, schedules, and internal documents efficiently.
 
 ---
 
