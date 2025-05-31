@@ -64,7 +64,7 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
 🔐 Features: Service category navigation, multiple integrated contact methods for client communication. and responsive UI design. 
 
-### 👷 [ELITE-TECH Employee Dashboard])  
+### 👷 ELITE-TECH Employee Dashboard  
 *Internal dashboard for managing employees and operations*  
 🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL     
 🔐 Features: Role-based access, dynamic dashboards, and document workflows.  
