@@ -6,7 +6,6 @@ Hi there! I'm **Mariem**, a passionate and detail-oriented Full Stack Developer 
 I thrive on innovation, elegant code, and transforming ideas into powerful digital realities.
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Maryem01)
 
 ---
 
@@ -62,6 +61,7 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ### 🚿 [PlumbSolution](https://entreprise-v3r5.onrender.com)  
 *Web app for sanitary services*  
 🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
+
 🔐 Features: Service category navigation, multiple integrated contact methods for client communication. and responsive UI design. 
 
 ### 👷 ELITE-TECH Employee Dashboard  
