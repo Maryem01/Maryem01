@@ -71,9 +71,11 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ---
 
 ### 🚚 [Hezli](https://hezlidz.com)  
-*Mobile + Web App for a transport company*  
-🌍 **Tech**: ReactJS, React Native, Ant Design, Redux, JWT, Stripe  
+*Mobile & Web App for a transport company, including a management dashboard for drivers, transportation services, vehicles, agents, and admins*  
+🌍 **Tech**: ReactJS, React Native, Ant Design, Redux, JWT (Authentication), Stripe  
+🔐 Includes secure authentication using JWT and role-based access control  
 📲 Available on [Apple Store](https://apps.apple.com/tn/app/hezli/id6462402465)
+
 
 ---
 
