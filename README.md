@@ -61,12 +61,11 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ### 🚿 [PlumbSolution](https://entreprise-v3r5.onrender.com)  
 *Web app for sanitary services*  
 🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
-
 🔐 Features: Service category navigation, multiple integrated contact methods for client communication. and responsive UI design. 
 
 ### 👷 ELITE-TECH Employee Dashboard  
 *Internal dashboard for managing employees and operations*  
-🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL     
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL    
 🔐 Features: Role-based access, dynamic dashboards, and document workflows.  
 
 ---
