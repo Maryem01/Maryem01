@@ -89,8 +89,10 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ## 🎓 Certifications
 
 - 🧪 **Test Automation** (Java, JavaScript, SQL) – *2025*  
+- 🔗 **certificate of compilation Hashgraph Developer Course** – *2025*,
 - 🎨 **Web Development** with HTML5, CSS, JS, ReactJS – *2022*  
 - 🛠️ **WinDev, C# Programming** – *2014*
+
 
 ---
 
