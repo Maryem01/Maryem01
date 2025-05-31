@@ -59,14 +59,14 @@ I thrive on innovation, elegant code, and transforming ideas into powerful digit
 ## 📈 Projects Highlights
 
 ### 🚿 [PlumbSolution](https://entreprise-v3r5.onrender.com)  
-*Web app for sanitary services*  
-🧩 **Tech**: React.js, TypeScript, Tailwind CSS 
-🔐 Features: Service category navigation, multiple integrated contact methods for client communication. and responsive UI design. 
+*Full-stack web platform for sanitary services*  
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS  
+🔐 Features: Intuitive service category navigation, responsive UI design, and multiple integrated contact options to facilitate seamless client communication.
 
 ### 👷 ELITE-TECH Employee Dashboard  
-*Internal dashboard for managing employees and operations*  
-🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL    
-🔐 Features: Role-based access, dynamic dashboards, and document workflows.  
+*Internal management dashboard for employees and operations*  
+🧩 **Tech**: React.js, TypeScript, Tailwind CSS, SQL  
+🔐 Features: Role-based authentication, dynamic dashboards for task and schedule management, and secure document workflows.
 
 ---
 
